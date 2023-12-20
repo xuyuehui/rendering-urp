@@ -1,2 +1,2 @@
 # rendering-urp
-训练自定urp管线的工程
+训练自定义urp管线的工程
